@@ -23,8 +23,6 @@ module.exports = {
             }
         });
 
-        console.log(techsArray);
-
         return response.json(devs);
     }
 }
